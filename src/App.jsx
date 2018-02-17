@@ -9,9 +9,9 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h1>#HackValtech</h1>
+          <h1>#Startups</h1>
         </div>
-        
+
         <div className="App-content">
           <TweetsCollection />
         </div>
